@@ -70,6 +70,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FVGKKYMY
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for pl2303HXD\Design Rule Check - PL2303HXD.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
